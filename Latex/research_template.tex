@@ -1,0 +1,85 @@
+\documentclass[11pt]{article}
+
+% ----- Layout -----
+\usepackage[margin=1in]{geometry}
+\usepackage{microtype}
+\usepackage{setspace}
+\setstretch{1.15}
+
+% ----- Math -----
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+
+% ----- Figures/tables -----
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% ----- Links + smart refs -----
+\usepackage[hidelinks]{hyperref}
+
+% ----- BibLaTeX (biber) -----
+\usepackage[
+  backend=biber,
+  style=numeric-comp,
+  maxcitenames=2,
+  maxbibnames=99,
+  doi=true,
+  isbn=false,
+  url=true
+]{biblatex}
+\addbibresource{references.bib}
+
+% ----- Title info -----
+\title{How Model Structure and Paramter Choices Influence Tumor Immune Dynamics and Treatment Response}
+\author{AMATH 881 \\Rosie Defazio\\ 20628115}
+\date{2026-04-13}
+
+% ----- Optional: theorem envs -----
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+
+\begin{document}
+\maketitle
+
+%\begin{abstract}
+%A 5--10 line summary of your motivation, approach, and key results.
+%Cite related work like \textcite{knuth1984} or parenthetical \parencite{lamport1994}.
+%\end{abstract}
+
+\section{Introduction}
+Throughout the 1900s, the interactions between the immune system and cancer has been investigated. 
+From the first report in 1904 of tumor regression during viral infections to various immune cells being discovered and clinical interventions being approved; the role and interactions of the immune system in regards to cancer 
+has been a big thing. 
+\section{Original Model}
+From \parencite{ERX2026}
+
+\subsection{Exploration of dynamics for $\beta = -1$ and $\eta = 0$}
+
+\section{Macrophage Extension}
+
+\subsection{Tumor Free Equilibrum}
+
+\subsection{Bifurcations}
+
+\section{Chemotherapy Extension}
+
+\section{Results}
+Include figures/tables and discuss.
+
+\section{Discussion}
+Limitations, interpretation, future work.
+
+\section{Conclusion}
+Concise wrap-up.
+
+\section{Code Availability}
+The code for this project is available at https://github.com/Rosiedefazio/AMATH-881-Final-Project. 
+
+
+\newpage
+\printbibliography
+
+\end{document}

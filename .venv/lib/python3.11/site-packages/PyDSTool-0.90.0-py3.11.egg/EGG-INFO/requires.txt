@@ -1,0 +1,3 @@
+six
+scipy>=0.9
+numpy>=1.6

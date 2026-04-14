@@ -1,2 +1,0 @@
-docker build -f Dockerfile.models -t pydstool:models .
-docker run --rm -v "$PWD:/work" -w /work pydstool:models

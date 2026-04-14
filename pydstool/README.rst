@@ -1,3 +1,8 @@
+THIS IS THE README FOR PYDSTOOL. THE DOCKER FILES, AND DIRECTORY MODELS WAS ADDED. SEPERATION SHOULD BE INTRODUCTED IN FUTURE. 
+i uh was learning how to use docker and hacked a solution until i learnt a better way hence leading me to put my scripts in the same directory 
+:/ 
+
+========
 PyDSTool
 ========
 

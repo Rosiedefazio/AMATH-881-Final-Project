@@ -1,0 +1,13 @@
+{
+  "name": "Python Dev (pycont‑x86)",
+  "image": "pycont-x86:latest",          // ← the image you just built
+  "platform": "linux/amd64",            // ← tells VS Code to start the container with the same platform
+  "runArgs": [
+    "-v", "${localWorkspaceFolder}:/workspace",   // mount your source code
+    "-w", "/workspace"                           // start in that folder
+  ],
+  "postCreateCommand": "pip install -r requirements.txt || true",
+  "extensions": [
+    "ms-python.python"
+  ]
+}

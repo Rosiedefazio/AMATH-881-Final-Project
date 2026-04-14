@@ -19,6 +19,98 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{El2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7925c87f5f098f22590bedafe1e415f2}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Anais\bibnamedelima Elewaut},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{7925c87f5f098f22590bedafe1e415f2}
+      \strng{fullhash}{7925c87f5f098f22590bedafe1e415f2}
+      \strng{fullhashraw}{7925c87f5f098f22590bedafe1e415f2}
+      \strng{bibnamehash}{7925c87f5f098f22590bedafe1e415f2}
+      \strng{authorbibnamehash}{7925c87f5f098f22590bedafe1e415f2}
+      \strng{authornamehash}{7925c87f5f098f22590bedafe1e415f2}
+      \strng{authorfullhash}{7925c87f5f098f22590bedafe1e415f2}
+      \strng{authorfullhashraw}{7925c87f5f098f22590bedafe1e415f2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Cancer cells impar momocyte-mediated T cell stimulation to evade immunity}
+      \field{volume}{637}
+      \field{year}{2024}
+    \endentry
+    \entry{aacr2025history}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=7f3c93b153dcc1a1e8faa4eeca7e073f}{%
+           family={{American Association for Cancer Research}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f3c93b153dcc1a1e8faa4eeca7e073f}
+      \strng{fullhash}{7f3c93b153dcc1a1e8faa4eeca7e073f}
+      \strng{fullhashraw}{7f3c93b153dcc1a1e8faa4eeca7e073f}
+      \strng{bibnamehash}{7f3c93b153dcc1a1e8faa4eeca7e073f}
+      \strng{authorbibnamehash}{7f3c93b153dcc1a1e8faa4eeca7e073f}
+      \strng{authornamehash}{7f3c93b153dcc1a1e8faa4eeca7e073f}
+      \strng{authorfullhash}{7f3c93b153dcc1a1e8faa4eeca7e073f}
+      \strng{authorfullhashraw}{7f3c93b153dcc1a1e8faa4eeca7e073f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Accessed: 2026-03-29}
+      \field{title}{History of Cancer Immunotherapy}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.cancerresearch.org/wp-content/uploads/2025/06/History-of-Cancer-Immunotherapy-25_06192025_rt.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.cancerresearch.org/wp-content/uploads/2025/06/History-of-Cancer-Immunotherapy-25_06192025_rt.pdf
+      \endverb
+    \endentry
+    \entry{DeNardo2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3e69c659a1bbbab481355918b7712e71}{%
+           family={DeNardo},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=38e5126faac703af5cece7c04077dac9}{%
+           family={Ruffell},
+           familyi={R\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4320b692dd3cbe54fd2345a8c61f9fbf}
+      \strng{fullhash}{4320b692dd3cbe54fd2345a8c61f9fbf}
+      \strng{fullhashraw}{4320b692dd3cbe54fd2345a8c61f9fbf}
+      \strng{bibnamehash}{4320b692dd3cbe54fd2345a8c61f9fbf}
+      \strng{authorbibnamehash}{4320b692dd3cbe54fd2345a8c61f9fbf}
+      \strng{authornamehash}{4320b692dd3cbe54fd2345a8c61f9fbf}
+      \strng{authorfullhash}{4320b692dd3cbe54fd2345a8c61f9fbf}
+      \strng{authorfullhashraw}{4320b692dd3cbe54fd2345a8c61f9fbf}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Immunology}
+      \field{number}{6}
+      \field{title}{Macrophages as regulators of tumour immunity and immunotherapy}
+      \field{volume}{19}
+      \field{year}{2019}
+      \field{pages}{369\bibrangedash 382}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1038/s41577-019-0127-6
+      \endverb
+    \endentry
     \entry{ERX2026}{article}{}{}
       \name{author}{1}{}{%
         {{hash=d6fc8303820d5111191f860eee41dd59}{%
@@ -45,6 +137,207 @@
       \field{title}{Immune Modulation in the Tumor Microenvironment: Bifurcation Analysis of Cancer-CTL-Monocyte Dynamics}
       \field{volume}{88:6}
       \field{year}{2025}
+    \endentry
+    \entry{larionova2019interaction}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=27f6ff6c5f70ef870b1b7dc2ee9e9978}{%
+           family={Larionova},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=c64cd97c7a3e393db53aea0ba57a3fa2}{%
+           family={Cherdyntseva},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0c12ae96450bf90f74282991aa068345}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c9a64be3b9fe498c6124568fd4bdf6e8}{%
+           family={Patysheva},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2802747c2429a9b0df934e4ab96343b8}{%
+           family={Rakina},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=525a4c805450cd6139e154a6183535fe}{%
+           family={Kzhyshkowska},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{f45d87b40751cf6670429718d18f0a6f}
+      \strng{fullhash}{d57182adb2de902fba68f84c204b2abf}
+      \strng{fullhashraw}{d57182adb2de902fba68f84c204b2abf}
+      \strng{bibnamehash}{d57182adb2de902fba68f84c204b2abf}
+      \strng{authorbibnamehash}{d57182adb2de902fba68f84c204b2abf}
+      \strng{authornamehash}{f45d87b40751cf6670429718d18f0a6f}
+      \strng{authorfullhash}{d57182adb2de902fba68f84c204b2abf}
+      \strng{authorfullhashraw}{d57182adb2de902fba68f84c204b2abf}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Oncoimmunology}
+      \field{number}{7}
+      \field{title}{Interaction of tumor-associated macrophages and cancer chemotherapy}
+      \field{volume}{8}
+      \field{year}{2019}
+      \field{pages}{1596004}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1080/2162402X.2019.1596004
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/2162402X.2019.1596004
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/2162402X.2019.1596004
+      \endverb
+    \endentry
+    \entry{murray2002mathematical}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=29820554483e0151cc9f851a9b33214b}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{29820554483e0151cc9f851a9b33214b}
+      \strng{fullhash}{29820554483e0151cc9f851a9b33214b}
+      \strng{fullhashraw}{29820554483e0151cc9f851a9b33214b}
+      \strng{bibnamehash}{29820554483e0151cc9f851a9b33214b}
+      \strng{authorbibnamehash}{29820554483e0151cc9f851a9b33214b}
+      \strng{authornamehash}{29820554483e0151cc9f851a9b33214b}
+      \strng{authorfullhash}{29820554483e0151cc9f851a9b33214b}
+      \strng{authorfullhashraw}{29820554483e0151cc9f851a9b33214b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{978-0-387-95223-9}
+      \field{series}{Interdisciplinary Applied Mathematics}
+      \field{title}{Mathematical Biology: {I.} An Introduction}
+      \field{volume}{17}
+      \field{year}{2002}
+      \field{pages}{XXIII\bibrangessep 551}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1007/b98868
+      \endverb
+    \endentry
+    \entry{reis2021bringing}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=958a8426759597214bc215e092252393}{%
+           family={Reis-Sobreiro},
+           familyi={R\bibinithyphendelim S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=643a04566adc4904b55f5b8f5a210226}{%
+           family={Teixeira\bibnamedelimb da\bibnamedelima Mota},
+           familyi={T\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ffd5805d5ec027da3df7604f4504342e}{%
+           family={Jardim},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0ea6b7699422b5d118c7818af6472f15}{%
+           family={Serre},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{28eb77c4507c513baa9a9c40ff0da2b5}
+      \strng{fullhash}{5ec1ffc42978d3af7179c5a5e55faccd}
+      \strng{fullhashraw}{5ec1ffc42978d3af7179c5a5e55faccd}
+      \strng{bibnamehash}{5ec1ffc42978d3af7179c5a5e55faccd}
+      \strng{authorbibnamehash}{5ec1ffc42978d3af7179c5a5e55faccd}
+      \strng{authornamehash}{28eb77c4507c513baa9a9c40ff0da2b5}
+      \strng{authorfullhash}{5ec1ffc42978d3af7179c5a5e55faccd}
+      \strng{authorfullhashraw}{5ec1ffc42978d3af7179c5a5e55faccd}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cells}
+      \field{number}{9}
+      \field{title}{Bringing Macrophages to the Frontline against Cancer: Current Immunotherapies Targeting Macrophages}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{2364}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/cells10092364
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/cells10092364
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/cells10092364
+      \endverb
+    \endentry
+    \entry{Sharma2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=a3fd4f0ea9e0c4ee7050feb90555899e}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=79fc2a93278124c77412cf7c15d44d60}{%
+           family={Jasrotia},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=40faa1bc69980517511d12eb5ab3c8bb}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0244a8a37f160ab981a23f8c14a1440a}
+      \strng{fullhash}{966b9121c90cae0018025d91d6510be6}
+      \strng{fullhashraw}{966b9121c90cae0018025d91d6510be6}
+      \strng{bibnamehash}{966b9121c90cae0018025d91d6510be6}
+      \strng{authorbibnamehash}{966b9121c90cae0018025d91d6510be6}
+      \strng{authornamehash}{0244a8a37f160ab981a23f8c14a1440a}
+      \strng{authorfullhash}{966b9121c90cae0018025d91d6510be6}
+      \strng{authorfullhashraw}{966b9121c90cae0018025d91d6510be6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Naunyn-Schmiedeberg's Archives of Pharmacology}
+      \field{title}{Effects of Chemotherapy on the Immune System: Implications for Cancer Treatment and Patient Outcomes}
+      \field{volume}{397}
+      \field{year}{2024}
+      \field{pages}{2551\bibrangedash 2566}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/s00210-023-02781-2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00210-023-02781-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00210-023-02781-2
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
